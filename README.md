@@ -12,7 +12,7 @@
 ### Skills
 - Tidur (100%)
 - Makan (100%)
-- Coli (100%)
+- Coli (300%)
 - Nyontek GitHub Orang (500%)
 
 
