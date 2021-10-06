@@ -22,7 +22,7 @@
 
 
 <p>
-    <a href="https://t
+    <a href="https://t.
 me/zyroscopebot " target="blank"><img src="https://img.shields.io/badge/BOT-Zyroscopebot-blue?&logo=Telegram" />
     <img src="https://img.shields.io/badge/GC-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
