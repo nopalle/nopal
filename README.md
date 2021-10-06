@@ -24,15 +24,15 @@
 <p>
     <a href="https://t.me/zyroscopebot" target="blank"><img src="https://img.shields.io/badge/BOT-Zyroscopebot-blue?&logo=Telegram"/>
     <a href="https://t.me/joinsinidongg" target="blank"><img src="https://img.shields.io/badge/GC-Zyro Support-blue?&logo=Telegram"/>
-    <a href="https://t.me/zyroupdate" target="blank"><img src="https://img.shields.io/badge/CH-Zyro Update-blue?&logo=Telegram" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+    <a href="https://t.me/zyroupdate" target="blank"><img src="https://img.shields.io/badge/CH-Zyro Update-blue?&logo=Telegram"/>
+    <a href="https://tiktok.com/hewaunjah" target="blank"><img src="https://img.shields.io/badge/TikTok-black?&logo=TikTok"/>
+    <a href="https://saweria.co/nopalle" target="blank"><img src="https://img.shields.io/badge/Saweria-cyan?&logo=Pubg"/>
 </p>
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/xlficks" target="blank"><img src="https://img.shields.io/badge/@xflicks-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/ferikunn" target="blank"><img src="https://img.shields.io/badge/@ferikunn-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://t.me/xlficks" target="blank"><img src="https://img.shields.io/badge/@akbarnfal-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/ferikunn" target="blank"><img src="https://img.shields.io/badge/@akbarnfal-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
