@@ -23,7 +23,7 @@
 
 <p>
     <a href="https://t.
-me/zyroscopebot" target="blank"><img src="https://img.shields.io/badge/BOT-Zyroscopebot-blue?&logo=Telegram" />
+me/zyroscopebot" target="blank"><img src="https://img.shields.io/badge/BOT-Zyroscopebot-blue?&logo=Telegram"/>
     <img src="https://img.shields.io/badge/GC-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
